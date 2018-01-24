@@ -3,13 +3,6 @@ Pod::Spec.new do |s|
   s.name         = "DSDropDownController"
   s.version      = "0.0.2"
   s.summary      = "DSDropDownController. Drop Down Menu for iOS written in Swift."
-
-  s.description  = <<-DESC
-
-Perfectly easy drop in drop down menu controller for iOS. Written in test driven swift development.
-
-                   DESC
-
   s.homepage     = "http://github.com/davidseek/DSDropDownController"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.authors            = { "David Seek" => "davidseek1986@gmail.com" }
